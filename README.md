@@ -37,3 +37,6 @@ A simple task manager built with **React**, **Redux (classic)**, and **Material 
 3. **Run the app**
    npm start
 
+![image](https://github.com/user-attachments/assets/6631dab2-447a-4dbe-9790-8743257423f8)
+
+
