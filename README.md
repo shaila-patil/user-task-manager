@@ -24,3 +24,16 @@ A simple task manager built with **React**, **Redux (classic)**, and **Material 
 - **redux-thunk** (for async actions)
 - **Material UI (MUI)** (for UI components)
 - **JSONPlaceholder API** (for mock data)
+
+ ## Installation
+
+1. **Download the project**
+
+   - Download the ZIP from [GitHub](https://github.com/shaila-patil/user-task-manager/tree/master)
+   - Extract the ZIP and open the folder
+
+2. **Install dependencies**
+   npm install
+3. **Run the app**
+   npm start
+
